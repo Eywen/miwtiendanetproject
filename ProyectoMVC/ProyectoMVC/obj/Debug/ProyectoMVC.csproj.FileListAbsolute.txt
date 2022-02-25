@@ -1,0 +1,272 @@
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\ProyectoMVC.dll.config
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\ProyectoMVC.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\ProyectoMVC.pdb
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\csc.exe
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\csc.exe.config
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\csc.rsp
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\csi.exe
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\csi.exe.config
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\csi.rsp
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\Microsoft.Managed.Core.targets
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.AppContext.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Collections.Immutable.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Console.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Globalization.Calendars.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.IO.Compression.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.IO.FileSystem.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Net.Http.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Net.Sockets.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Reflection.Metadata.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.ValueTuple.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Xml.XmlDocument.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Xml.XPath.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\vbc.exe
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\vbc.exe.config
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\vbc.rsp
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\VBCSCompiler.exe
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\roslyn\VBCSCompiler.exe.config
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Antlr3.Runtime.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\EntityFramework.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\EntityFramework.SqlServer.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.AspNet.Identity.Core.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.Cookies.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.Facebook.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.Google.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.OAuth.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.Twitter.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.Web.Infrastructure.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Newtonsoft.Json.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Owin.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\System.Net.Http.Formatting.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\System.Web.Helpers.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\System.Web.Http.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\System.Web.Http.WebHost.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\System.Web.Mvc.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\System.Web.Optimization.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\System.Web.Razor.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\System.Web.WebPages.Deployment.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\System.Web.WebPages.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\System.Web.WebPages.Razor.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\WebGrease.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\System.Web.Helpers.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\System.Web.Mvc.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\System.Web.Optimization.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\System.Web.Razor.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\System.Web.WebPages.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\System.Web.WebPages.Deployment.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\System.Web.WebPages.Razor.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Newtonsoft.Json.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Antlr3.Runtime.pdb
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\System.Net.Http.Formatting.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\System.Web.Http.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\System.Web.Http.WebHost.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\EntityFramework.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\EntityFramework.SqlServer.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.AspNet.Identity.Core.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.Facebook.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.Cookies.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.Google.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.Twitter.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.OAuth.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\es\System.Web.Helpers.resources.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\es\System.Web.Mvc.resources.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\es\System.Web.Optimization.resources.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\es\System.Web.Razor.resources.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\es\System.Web.WebPages.resources.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\es\System.Net.Http.Formatting.resources.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\es\System.Web.Http.resources.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\es\System.Web.Http.WebHost.resources.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\es\EntityFramework.resources.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\es\EntityFramework.SqlServer.resources.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\es\Microsoft.Owin.resources.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\es\Microsoft.Owin.Security.resources.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\es\Microsoft.Owin.Security.Google.resources.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\obj\Debug\ProyectoMVC.csproj.AssemblyReference.cache
+F:\CursoNET\ProyectoMVC\ProyectoMVC\obj\Debug\ProyectoMVC.csproj.CoreCompileInputs.cache
+F:\CursoNET\ProyectoMVC\ProyectoMVC\obj\Debug\ProyectoMVC.csproj.CopyComplete
+F:\CursoNET\ProyectoMVC\ProyectoMVC\obj\Debug\ProyectoMVC.dll
+F:\CursoNET\ProyectoMVC\ProyectoMVC\obj\Debug\ProyectoMVC.pdb
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\ProyectoMVC.dll.config
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\ProyectoMVC.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\ProyectoMVC.pdb
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\csc.exe
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\csc.exe.config
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\csc.rsp
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\csi.exe
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\csi.exe.config
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\csi.rsp
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.AppContext.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Collections.Immutable.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Console.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Globalization.Calendars.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.IO.Compression.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.IO.FileSystem.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Net.Http.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Net.Sockets.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.ValueTuple.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Xml.XPath.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\vbc.exe
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\vbc.exe.config
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\vbc.rsp
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\VBCSCompiler.exe
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\roslyn\VBCSCompiler.exe.config
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Antlr3.Runtime.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\EntityFramework.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\EntityFramework.SqlServer.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.Google.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Newtonsoft.Json.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Owin.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\System.Net.Http.Formatting.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\System.Web.Helpers.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\System.Web.Http.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\System.Web.Http.WebHost.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\System.Web.Mvc.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\System.Web.Optimization.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\System.Web.Razor.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\System.Web.WebPages.Deployment.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\System.Web.WebPages.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\System.Web.WebPages.Razor.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\WebGrease.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\EntityFramework.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\EntityFramework.SqlServer.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\System.Web.Helpers.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\System.Web.Mvc.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\System.Web.Optimization.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\System.Web.Razor.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\System.Web.WebPages.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\System.Web.WebPages.Deployment.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\System.Web.WebPages.Razor.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Newtonsoft.Json.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Antlr3.Runtime.pdb
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\System.Net.Http.Formatting.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\System.Web.Http.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\System.Web.Http.WebHost.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.Google.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\es\EntityFramework.resources.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\es\EntityFramework.SqlServer.resources.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\es\System.Web.Helpers.resources.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\es\System.Web.Mvc.resources.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\es\System.Web.Optimization.resources.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\es\System.Web.Razor.resources.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\es\System.Web.WebPages.resources.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\es\System.Net.Http.Formatting.resources.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\es\System.Web.Http.resources.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\es\System.Web.Http.WebHost.resources.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\es\Microsoft.Owin.resources.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\es\Microsoft.Owin.Security.resources.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\es\Microsoft.Owin.Security.Google.resources.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\obj\Debug\ProyectoMVC.csproj.AssemblyReference.cache
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\obj\Debug\ProyectoMVC.csproj.CoreCompileInputs.cache
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\obj\Debug\ProyectoMVC.csproj.CopyComplete
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\obj\Debug\ProyectoMVC.dll
+E:\Documentos Blnk\UniversidadMasterUpm\NET\ProyectoTiendaWebNet\ProyectoMVC\ProyectoMVC\obj\Debug\ProyectoMVC.pdb

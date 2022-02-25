@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="ModeloTienda" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="ModeloTiendaContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Productos" EntityType="ModeloTienda.Producto" />
+    <EntitySet Name="Clientes" EntityType="ModeloTienda.Cliente" />
+    <EntitySet Name="Pedidos" EntityType="ModeloTienda.Pedido" />
+    <AssociationSet Name="PedidoCliente" Association="ModeloTienda.PedidoCliente">
+      <End Role="Pedido" EntitySet="Pedidos" />
+      <End Role="Cliente" EntitySet="Clientes" />
+    </AssociationSet>
+    <EntitySet Name="ProductosComprados" EntityType="ModeloTienda.ProductoComprado" />
+    <AssociationSet Name="ProductoProductoComprado" Association="ModeloTienda.ProductoProductoComprado">
+      <End Role="Producto" EntitySet="Productos" />
+      <End Role="ProductoComprado" EntitySet="ProductosComprados" />
+    </AssociationSet>
+    <AssociationSet Name="PedidoProductoComprado" Association="ModeloTienda.PedidoProductoComprado">
+      <End Role="Pedido" EntitySet="Pedidos" />
+      <End Role="ProductoComprado" EntitySet="ProductosComprados" />
+    </AssociationSet>
+    <EntitySet Name="SinStocks" EntityType="ModeloTienda.SinStock" />
+    <AssociationSet Name="ProductoSinStock" Association="ModeloTienda.ProductoSinStock">
+      <End Role="Producto" EntitySet="Productos" />
+      <End Role="SinStock" EntitySet="SinStocks" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Producto">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" Nullable="false" />
+    <Property Name="Cantidad" Type="Int32" Nullable="false" />
+    <Property Name="Precio" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="ProductoComprado" Relationship="ModeloTienda.ProductoProductoComprado" FromRole="Producto" ToRole="ProductoComprado" />
+    <NavigationProperty Name="SinStock" Relationship="ModeloTienda.ProductoSinStock" FromRole="Producto" ToRole="SinStock" />
+  </EntityType>
+  <EntityType Name="Cliente">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" Nullable="false" />
+    <Property Name="Direccion" Type="String" Nullable="false" />
+    <Property Name="Email" Type="String" Nullable="false" />
+    <NavigationProperty Name="Pedido" Relationship="ModeloTienda.PedidoCliente" FromRole="Cliente" ToRole="Pedido" />
+  </EntityType>
+  <EntityType Name="Pedido">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Cliente" Relationship="ModeloTienda.PedidoCliente" FromRole="Pedido" ToRole="Cliente" />
+    <NavigationProperty Name="ProductoComprado" Relationship="ModeloTienda.PedidoProductoComprado" FromRole="Pedido" ToRole="ProductoComprado" />
+  </EntityType>
+  <Association Name="PedidoCliente">
+    <End Type="ModeloTienda.Pedido" Role="Pedido" Multiplicity="*" />
+    <End Type="ModeloTienda.Cliente" Role="Cliente" Multiplicity="1" />
+  </Association>
+  <EntityType Name="ProductoComprado">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Cantidad" Type="String" Nullable="false" />
+    <NavigationProperty Name="Producto" Relationship="ModeloTienda.ProductoProductoComprado" FromRole="ProductoComprado" ToRole="Producto" />
+    <Property Name="ProductoId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Pedido" Relationship="ModeloTienda.PedidoProductoComprado" FromRole="ProductoComprado" ToRole="Pedido" />
+    <Property Name="PedidoId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="ProductoProductoComprado">
+    <End Type="ModeloTienda.Producto" Role="Producto" Multiplicity="1" />
+    <End Type="ModeloTienda.ProductoComprado" Role="ProductoComprado" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Producto">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ProductoComprado">
+        <PropertyRef Name="ProductoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="PedidoProductoComprado">
+    <End Type="ModeloTienda.Pedido" Role="Pedido" Multiplicity="1" />
+    <End Type="ModeloTienda.ProductoComprado" Role="ProductoComprado" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pedido">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ProductoComprado">
+        <PropertyRef Name="PedidoId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="SinStock">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Producto" Relationship="ModeloTienda.ProductoSinStock" FromRole="SinStock" ToRole="Producto" />
+  </EntityType>
+  <Association Name="ProductoSinStock">
+    <End Type="ModeloTienda.Producto" Role="Producto" Multiplicity="1" />
+    <End Type="ModeloTienda.SinStock" Role="SinStock" Multiplicity="0..1" />
+  </Association>
+</Schema>
